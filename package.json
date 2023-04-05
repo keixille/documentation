@@ -1,0 +1,14 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Documentation of problem solving",
+  "scripts": {
+    "format": "prettier --write --ignore-path .gitignore ."
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  },
+  "author": "Dian Aditya Nugraha",
+  "license": "ISC"
+}
